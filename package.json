@@ -18,7 +18,7 @@
     "tape": "~0.2.2"
   },
   "bin": {
-    "replace": "./bin/replace.js",
+    "rjs": "./bin/replace.js",
     "search": "./bin/search.js"
   },
   "keywords": [
