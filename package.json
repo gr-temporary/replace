@@ -18,8 +18,8 @@
     "tape": "~0.2.2"
   },
   "bin": {
-    "rjs": "./bin/replace.js",
-    "search": "./bin/search.js"
+    "replacejs": "./bin/replace.js",
+    "searchjs": "./bin/search.js"
   },
   "keywords": [
     "sed",
